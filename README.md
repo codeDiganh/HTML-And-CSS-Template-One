@@ -7,5 +7,5 @@ Mr.Osamh Elzero .. Thank you .. https://elzero.org/
 
 I used the Leon-PSD from graphberry.com .
 I am the one who converted into code.
-This design is still under development by me .
+This Template is still under development by me .
 
