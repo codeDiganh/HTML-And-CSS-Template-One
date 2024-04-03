@@ -6,6 +6,6 @@ This design was made as my first practical application after completing the HTML
 Mr.Osamh Elzero .. Thank you .. https://elzero.org/
 
 I used the Leon-PSD from graphberry.com .
-I am the one who converted this PSD into code.
+I am the one who converted into code.
 This design is still under development by me .
 
